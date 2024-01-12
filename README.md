@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Delali Nsiah-Asare
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, Java, SQL, WebDev
-- 💞️ I’m looking to collaborate on AI/ML, Data Analysis, and Python Development projects
+- 💞️ I’m looking to collaborate on AI/ML, Data Analysis, and Python Object Oriented Projects
 - 📫 How to reach me: delalinsiah.asare@gmail.com
 
 <!---
