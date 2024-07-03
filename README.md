@@ -136,8 +136,6 @@
 <p>
     <img src="https://skillicons.dev/icons?i=vscode"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=visualstudio"/>
-    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=pycharm"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=idea"/>
