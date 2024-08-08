@@ -70,7 +70,7 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=r"/>
     &nbsp; &nbsp; &nbsp;
-</p>
+</p> 
 
 <p>
     <img src="https://skillicons.dev/icons?i=regex"/>
