@@ -130,6 +130,8 @@
 <p>
     <img src="https://skillicons.dev/icons?i=figma"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=powerbi"/>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <h3 align="left"> IDEs: </h3>
