@@ -130,7 +130,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=figma"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=powerbi"/>
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="50" height="50"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
