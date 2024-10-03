@@ -14,7 +14,7 @@
 ## About Me
 
 <p>
-    I'm a <b>Back-End Developer</b> and <b>Data Analyst</b>
+    I'm a <b>Back-End Web Developer</b> and <b>Data Analyst</b>
 </p>
 <p>
     I have interests in <b>Data Analysis</b> and <b>Machine Learning</b>. Look forward to collaborating on any project related in these two primary fields and more.
