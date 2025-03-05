@@ -9,7 +9,7 @@
 
 ### ✌︎︎ I am available for hire.
 
-### **[Resume](https://drive.google.com/file/d/1tReVlgfRPmkXn_svWC_v6Qwc9L16z_5C/view?usp=drive_link)**
+### **[RESUME](https://drive.google.com/file/d/1tZOJ036lGkex8PZfZ5_tcEn5alu1Qizu/view?usp=drive_link)**
 
 ## About Me
 
