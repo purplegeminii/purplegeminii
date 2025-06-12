@@ -5,7 +5,7 @@
 
 👨🏻‍💻 I'm Delali Nsiah-Asare
 
-👩🏼‍🎓 Computer Science Senior @ Ashesi University, Ghana
+👩🏼‍🎓 Computer Science Graduate @ Ashesi University, Ghana
 
 ### ✌︎︎ I am available for hire.
 
