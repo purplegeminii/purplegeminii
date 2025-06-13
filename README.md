@@ -85,6 +85,8 @@
 
 <h3 align="left"> Frameworks: </h3>
 <p>
+    <img src="https://skillicons.dev/icons?i=fastapi"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=django"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=flask"/>
