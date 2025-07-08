@@ -111,6 +111,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=firebase"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=postgresql"/>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <h3 align="left"> Deployments: </h3>
