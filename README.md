@@ -119,6 +119,8 @@
 <p>
     <img src="https://skillicons.dev/icons?i=azure"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=render"/>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <h3 align="left"> Version Control: </h3>
