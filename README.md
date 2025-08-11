@@ -115,7 +115,7 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=postgresql"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" height="48"/>
+    <img src="https://skillicons.dev/icons?i=redis"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
@@ -141,6 +141,8 @@
     <img src="https://skillicons.dev/icons?i=figma"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="50" height="50"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=notion"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
