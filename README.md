@@ -89,6 +89,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=django"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/swagger/swagger-original.svg" height="48"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=flask"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -112,6 +114,8 @@
     <img src="https://skillicons.dev/icons?i=firebase"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=postgresql"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" height="48"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
