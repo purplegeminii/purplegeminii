@@ -119,7 +119,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=azure"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=render"/>
+    <img src="https://skillicons.dev/icons?i=heroku"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
