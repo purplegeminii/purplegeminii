@@ -85,6 +85,8 @@
 
 <h3 align="left"> Frameworks: </h3>
 <p>
+    <img src="https://skillicons.dev/icons?i=pytorch"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=fastapi"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=django"/>
@@ -94,6 +96,8 @@
     <img src="https://skillicons.dev/icons?i=flask"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=react"/>
     &nbsp; &nbsp; &nbsp;
@@ -112,6 +116,8 @@
     <img src="https://skillicons.dev/icons?i=mongodb"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=firebase"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=supabase"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=postgresql"/>
     &nbsp; &nbsp; &nbsp;
@@ -136,13 +142,20 @@
 </p>
 
 <h3 align="left"> More Tools: </h3>
-
 <p>
     <img src="https://skillicons.dev/icons?i=figma"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="50" height="50"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=notion"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=anaconda"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=discord"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=postman"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
@@ -155,7 +168,5 @@
     <img src="https://skillicons.dev/icons?i=idea"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=phpstorm"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=anaconda"/>
     &nbsp; &nbsp; &nbsp;
 </p>
