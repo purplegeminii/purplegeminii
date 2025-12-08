@@ -24,7 +24,7 @@
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=purplegeminii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=180"/>
-    <img height="180em" src="https://purplegeminii-github-readme-stats.vercel.app/api?username=purplegeminii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://purplegeminii-github-readme-stats.vercel.app/api?username=purplegeminii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
     <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purplegeminii&theme=algolia" />
     &nbsp; &nbsp; &nbsp;
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=purplegeminii&layout=compact&langs_count=8&theme=algolia"/>
