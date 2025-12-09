@@ -7,6 +7,21 @@
 
 👩🏼‍🎓 Computer Science Graduate @ Ashesi University, Ghana
 
+<!-- <svg viewBox="0 0 1000 60">
+  <text x="0" y="40" font-size="28" font-family="Segoe UI">
+    👨🏻‍💻 I'm Delali Nsiah-Asare <br/>
+    <animate attributeName="textLength" from="0" to="1000" dur="3s" fill="freeze" />
+  </text>
+</svg>
+
+<svg viewBox="0 0 1000 60">
+  <text x="0" y="40" font-size="24" font-family="Segoe UI">
+    👩🏼‍🎓 Computer Science Graduate @ Ashesi University, Ghana
+    <animate attributeName="textLength" from="0" to="1000" dur="3s" begin="3.1s" fill="freeze" />
+  </text>
+</svg> -->
+
+
 ### ✌︎︎ I am available for hire.
 
 ### **[RESUME](https://drive.google.com/file/d/1oyIbG4qoWfYzGeYiOoR3WzK6Yn6-FDnR/view?usp=drive_link)**
