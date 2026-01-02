@@ -132,15 +132,15 @@
 <p>
     <img src="https://skillicons.dev/icons?i=mysql"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=postgresql"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=redis"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=mongodb"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=firebase"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=supabase"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=postgresql"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=redis"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
