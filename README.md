@@ -79,6 +79,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=java"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=cs"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=cpp"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=js"/>
