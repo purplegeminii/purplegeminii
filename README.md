@@ -150,6 +150,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=heroku"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="./render_logo.jpeg" width="50" height="50"/>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <h3 align="left"> Version Control: </h3>
@@ -164,7 +166,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=figma"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="50" height="50"/>
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="40" height="40"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=notion"/>
     &nbsp; &nbsp; &nbsp;
