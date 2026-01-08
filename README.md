@@ -152,6 +152,14 @@
     &nbsp; &nbsp; &nbsp;
     <img src="./render_logo.jpeg" width="50" height="50"/>
     &nbsp; &nbsp; &nbsp;
+    <!-- <table>
+      <tr>
+        <td style="background: white; padding: 8px;">
+            <img src="./railway_logo.png" width="50" height="50" alt="Railway logo"/>
+        </td>
+      </tr>
+    </table>
+    &nbsp; &nbsp; &nbsp; -->
 </p>
 
 <h3 align="left"> Version Control: </h3>
