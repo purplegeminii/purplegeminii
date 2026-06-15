@@ -24,7 +24,7 @@
 
 ### ✌︎︎ I am available for hire.
 
-### **[RESUME](https://drive.google.com/file/d/1oyIbG4qoWfYzGeYiOoR3WzK6Yn6-FDnR/view?usp=drive_link)**
+### **[RESUME](https://drive.google.com/file/d/1JkNZkqhAkK4Fo5SoeN5wmsno6D1JE1C_/view?usp=share_link)**
 
 ## About Me
 
