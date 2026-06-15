@@ -110,8 +110,6 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=django"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/swagger/swagger-original.svg" height="48"/>
-    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=flask"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -126,6 +124,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     &nbsp; &nbsp; &nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/swagger/swagger-original.svg" height="48"/>
+    &nbsp; &nbsp; &nbsp; -->
 </p>
 
 <h3 align="left"> Databases: </h3>
